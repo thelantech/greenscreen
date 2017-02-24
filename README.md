@@ -1,4 +1,4 @@
-# Greenscreen
+# Thelan Greenscreen
 
 A digital signage solution using the Web and Chromecast devices.
 
@@ -235,4 +235,3 @@ Obviously, you don't neccessarily want to have everyone able to manipulate every
 interface. Currently, the best way to secure this is by setting up a private Wi-Fi network for the Chromecasts
 to connect to.
 
-#### Good luck, and happy casting! :)
